@@ -1,0 +1,5 @@
+{"name":"liberusoftware/module-crm-cpq","type":"liberu-module","autoload":{"psr-4":{"Liberu\\CRM\\CPQ\\":"src/"}},"extra":{"laravel":{"providers":["Liberu\\CRM\\CPQ\\CpqServiceProvider"]},"liberu":{"name":"crm-cpq"}},
+    "require": {
+        "liberusoftware/module-organizations-teams": "^1.0"
+    }
+}
